@@ -5,6 +5,8 @@
 
 ### Resource 2
  * [kaggle 2nd place solution for the 2017 national datascience bowl](http://juliandewit.github.io/kaggle-ndsb2017/)
+ * [Github](https://github.com/juliandewit/kaggle_ndsb2017)
+ * https://github.com/dhammack/DSB2017
 
 ### Resource 3
  * [DSB 2017 Case Review](https://www.youtube.com/watch?v=-XUKq3B4sdw)
