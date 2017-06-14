@@ -12,6 +12,12 @@ from keras.layers import Conv2D, MaxPooling2D, Conv3D, MaxPooling3D
 from keras.optimizers import SGD
 from keras.utils import to_categorical
 import pandas as pd
+import tensorflow as tf
+from keras.backend.tensorflow_backend import set_session
+config = tf.ConfigProto()
+config.gpu_options.per_process_gpu_memory_fraction = 0.4
+set_session(tf.Session(config=config))
+
 
 # Loading patients in the forma
 def data_for_keras(number_of_patients):
@@ -53,18 +59,11 @@ sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss='categorical_crossentropy', optimizer=sgd)
 print(model.summary())
 
-model.fit(x_train, y_train, batch_size=1, nb_epoch=10, class_weight=class_weights)
+model.fit(x_train, y_train, batch_size=3, nb_epoch=10, class_weight=class_weights)
 score = model.evaluate(x_train, y_train, batch_size=1)
 print (score)
 print (model.predict_proba(x_train))
-
-
-# In[ ]:
-
-score = model.evaluate(x_train, y_train, batch_size=1)
-print (score)
-print (model.predict_proba(x_train))
-
+print ('Done!')
 
 # In[ ]:
 
