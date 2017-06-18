@@ -1,12 +1,14 @@
 1. Reproducing Hammack's CNN model
 
-Optimizer: Nadam (lr=0.01)
+Optimizer: Nadam (lr=0.01) 
 Loss function: Binary crossentropy
 Objectives: Malignancy, False positiveness
 Branching: dense block
+
 False positive samples: None
 Train/Test split: 75/25
 Data augmentation: None
+
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
 Inner activation functions: LeakyReLU(0.1)
@@ -15,6 +17,7 @@ Output layer activation function: sigmoid
 Regularization degree: 0
 Dropout rate: 0
 Dropout type: Gaussian Dropout
+
 Number of epochs: 30
 Number of samples per batch: 20
 Number of batches per epoch: 150
@@ -27,9 +30,11 @@ Optimizer: Nadam (lr=0.01)
 Loss function: MSE
 Objectives: Malignancy
 Branching: dense block
+
 False positive samples: None
 Train/Test split: 80/20
 Data augmentation: None
+
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
 Inner activation functions: LeakyReLU(0.1)
@@ -38,6 +43,7 @@ Output layer activation function: sigmoid
 Regularization degree: 0
 Dropout rate: 0
 Dropout type: Gaussian Dropout
+
 Number of epochs: 15 or 25
 Number of samples per batch: 20
 Number of batches per epoch: 150
@@ -50,9 +56,11 @@ Optimizer: Nadam (lr=0.01)
 Loss function: MSE
 Objectives: Malignancy
 Branching: dense block
+
 False positive samples: None
 Train/Test split: 80/20
 Data augmentation: None
+
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
 Inner activation functions: ReLU
@@ -61,6 +69,7 @@ Output layer activation function: sigmoid
 Regularization degree: 0
 Dropout rate: 0
 Dropout type: Gaussian Dropout
+
 Number of epochs: 15 or 25
 Number of samples per batch: 20
 Number of batches per epoch: 150
@@ -73,9 +82,11 @@ Optimizer: Nadam (lr=0.01)
 Loss function: MSE
 Objectives: Malignancy, Lobulation, Spiculation, Diameter
 Branching: dense block
+
 False positive samples: True
 Train/Test split: 80/20
 Data augmentation: None
+
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
 Inner activation functions: ReLU
@@ -84,6 +95,7 @@ Output layer activation function: sigmoid
 Regularization degree: 1e-3
 Dropout rate: 1e-3
 Dropout type: Gaussian Dropout
+
 Number of epochs: 50
 Number of samples per batch: 20
 Number of batches per epoch: 150
@@ -109,6 +121,7 @@ Output layer activation function: sigmoid
 Regularization degree: 1e-4
 Dropout rate: 1e-4
 Dropout type: Gaussian Dropout
+
 Number of epochs: 50
 Number of samples per batch: 50
 Number of batches per epoch: 150
@@ -165,4 +178,31 @@ Output layer activation function: softmax
 
 ----
 
-7.png
+7.png Learning rate scheduler + Deep branching
+
+Optimizer: sgd+nesterov (lr scheduler { <2:1e-2, <5:1e-3, <10:5e-4, else:5e-5 })
+Loss function: MSE
+Objectives: Malignancy, Lobulation, Spiculation, Diameter
+Branching: conv block #5
+
+False positive samples: None
+Train/Test split: 80/20
+Data augmentation: None
+
+Filter size: (3,3,3)
+Number of filters per conv block: 8-24-48-64-65
+Inner activation functions: LeakyReLU(0.3)
+Number of neurons in the Dense layer: 32
+Output layer activation function: softmax
+Regularization degree: 1e-3
+Dropout rate: 1e-3
+Dropout type: Regular Dropout
+
+Number of epochs: 15
+Number of samples per batch: 50
+Number of batches per epoch: 100
+
+----
+
+8.png
+
