@@ -1,6 +1,6 @@
 1. Reproducing Hammack's CNN model
 
-Optimizer: Nadam
+Optimizer: Nadam (lr=0.01)
 Loss function: Binary crossentropy
 Objectives: Malignancy, False positiveness
 Branching: dense block
@@ -23,7 +23,7 @@ Number of batches per epoch: 150
 
 2.png 		
 
-Optimizer: Nadam
+Optimizer: Nadam (lr=0.01)
 Loss function: MSE
 Objectives: Malignancy
 Branching: dense block
@@ -46,7 +46,7 @@ Number of batches per epoch: 150
 
 3.png Change of the loss function to MSE
 
-Optimizer: Nadam
+Optimizer: Nadam (lr=0.01)
 Loss function: MSE
 Objectives: Malignancy
 Branching: dense block
@@ -69,7 +69,7 @@ Number of batches per epoch: 150
 
 4.png Addition of False Positives + adding regularization + adding other objectives
 
-Optimizer: Nadam
+Optimizer: Nadam (lr=0.01)
 Loss function: MSE
 Objectives: Malignancy, Lobulation, Spiculation, Diameter
 Branching: dense block
@@ -92,7 +92,7 @@ Number of batches per epoch: 150
 
 5.png Increasing number of samples per batch/epoch + decreasing droupout and regularization
 
-Optimizer: Nadam
+Optimizer: Nadam (lr=0.01)
 Loss function: MSE
 Objectives: Malignancy, Lobulation, Spiculation, Diameter
 Branching: dense block
