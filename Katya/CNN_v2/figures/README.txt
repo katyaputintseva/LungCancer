@@ -28,7 +28,7 @@ Loss function: MSE
 Objectives: Malignancy
 Branching: dense block
 False positive samples: None
-Train/Test split: 75/25
+Train/Test split: 80/20
 Data augmentation: None
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
@@ -51,7 +51,7 @@ Loss function: MSE
 Objectives: Malignancy
 Branching: dense block
 False positive samples: None
-Train/Test split: 75/25
+Train/Test split: 80/20
 Data augmentation: None
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
@@ -74,7 +74,7 @@ Loss function: MSE
 Objectives: Malignancy, Lobulation, Spiculation, Diameter
 Branching: dense block
 False positive samples: True
-Train/Test split: 75/25
+Train/Test split: 80/20
 Data augmentation: None
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
@@ -96,9 +96,11 @@ Optimizer: Nadam
 Loss function: MSE
 Objectives: Malignancy, Lobulation, Spiculation, Diameter
 Branching: dense block
+
 False positive samples: True
-Train/Test split: 75/25
+Train/Test split: 80/20
 Data augmentation: None
+
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
 Inner activation functions: ReLU
@@ -119,8 +121,11 @@ Optimizer: sgd+nesterov (lr=0.01)
 Loss function: MSE
 Objectives: Malignancy, Lobulation, Spiculation, Diameter
 Branching: dense block
+
 False positive samples: None
+Train/Test split: 80/20
 Data augmentation: None
+
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-48-64-65
 Number of neurons in the Dense layer: 32
