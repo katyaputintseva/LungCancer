@@ -185,7 +185,6 @@ Loss function: MSE
 Objectives: Malignancy, Lobulation, Spiculation, Diameter
 Branching: conv block #5
 
-False positive samples: None
 Train/Test split: 80/20
 Data augmentation: None
 
@@ -202,7 +201,52 @@ Number of epochs: 15
 Number of samples per batch: 50
 Number of batches per epoch: 100
 
+7.1.png
+
+False positive samples: None
+
+7.2.png
+
+False positive samples: 50% of negative samples
+
+7.3.png 2 stages + early stopping (1e-3 after 4 epochs)
+
+2 training stages:
+1: Number of epochs: 15
+Number of samples per batch: 50
+Number of batches per epoch: 110
+False positive samples: None
+
+2: Number of epochs: 15
+Number of samples per batch: 50
+Number of batches per epoch: 150
+False positive samples: 50% of negative samples
+
+
 ----
 
-8.png
+8.png Data augmentation
+
+Optimizer: sgd+nesterov (lr scheduler { <2:1e-2, <5:1e-3, <10:5e-4, else:5e-5 })
+Loss function: MSE
+Objectives: Malignancy, Lobulation, Spiculation, Diameter
+Branching: conv block #5
+
+False positive samples: None
+Train/Test split: 80/20
+Data augmentation: Flips around random axes (implemented for positive samples only)
+
+Filter size: (3,3,3)
+Number of filters per conv block: 8-24-48-64-65
+Inner activation functions: LeakyReLU(0.3)
+Number of neurons in the Dense layer: 32
+Output layer activation function: softmax
+Regularization degree: 1e-3
+Dropout rate: 1e-3
+Dropout type: Regular Dropout
+
+Number of epochs: 15
+Number of samples per batch: 50
+Number of batches per epoch: 110
+
 
