@@ -232,7 +232,6 @@ Loss function: MSE
 Objectives: Malignancy, Lobulation, Spiculation, Diameter
 Branching: conv block #5
 
-False positive samples: None
 Train/Test split: 80/20
 Data augmentation: Flips around random axes (implemented for positive samples only)
 
@@ -245,8 +244,39 @@ Regularization degree: 1e-3
 Dropout rate: 1e-3
 Dropout type: Regular Dropout
 
+8.1.png
+
+False positive samples: None
 Number of epochs: 15
 Number of samples per batch: 50
 Number of batches per epoch: 110
 
+8.2.png
 
+False positive samples: 50% of negative samples
+Number of epochs: 20
+Number of samples per batch: 50
+Number of batches per epoch: 300
+
+8.3.png
+
+False positive samples: None
+Number of epochs: 30
+Number of samples per batch: 50
+Number of batches per epoch: 110
+
+8.4.png
+
+False positive samples: None
+Number of epochs: 30
+Number of samples per batch: 50
+Number of batches per epoch: 110
+Dropout rate: 1e-2 
+
+8.5.png
+
+False positive samples: 50% of negative samples
+Number of epochs: 30
+Number of samples per batch: 50
+Number of batches per epoch: 110
+Dropout rate: 1e-2 
