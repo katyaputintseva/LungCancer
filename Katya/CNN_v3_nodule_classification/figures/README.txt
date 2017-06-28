@@ -12,7 +12,7 @@ Data augmentation: Flips around random axes (implemented for positive samples on
 
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
-Inner activation functions: LeakyReLU(0.1)
+Inner activation functions: LeakyReLU(0.3)
 Number of neurons in the Dense layer: 32
 Output layer activation function: softmax
 Regularization degree: 1e-3
@@ -35,7 +35,7 @@ Data augmentation: Flips around random axes (implemented for positive samples on
 
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
-Inner activation functions: LeakyReLU(0.1)
+Inner activation functions: LeakyReLU(0.3)
 Number of neurons in the Dense layer: 32
 Output layer activation function: softmax
 Regularization degree: 1e-3
@@ -58,7 +58,7 @@ Data augmentation: Flips around random axes (implemented for positive samples on
 
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
-Inner activation functions: LeakyReLU(0.1)
+Inner activation functions: LeakyReLU(0.3)
 Number of neurons in the Dense layer: 32
 Output layer activation function: softmax
 Regularization degree: 1e-3
@@ -81,14 +81,14 @@ Data augmentation: Flips around random axes (implemented for positive samples on
 
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
-Inner activation functions: LeakyReLU(0.1)
+Inner activation functions: LeakyReLU(0.3)
 Number of neurons in the Dense layer: 32
 Output layer activation function: softmax
 Regularization degree: 1e-3
 Dropout rate: 0.2
 Dropout type: Regular Dropout
 
-Number of epochs: 20
+Number of epochs: 15
 Number of samples per batch: 50
 Number of batches per epoch: 50
 
@@ -105,13 +105,94 @@ Data augmentation: Flips around random axes (implemented for positive samples on
 
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-64-72-72
-Inner activation functions: LeakyReLU(0.1)
+Inner activation functions: LeakyReLU(0.3)
 Number of neurons in the Dense layer: 32
 Output layer activation function: softmax
 Regularization degree: 1e-3
-Dropout rate: 0.1
+Dropout rate: 0.3
 Dropout type: Regular Dropout
 
-Number of epochs: 20
+Number of epochs: 10
+Number of samples per batch: 50
+Number of batches per epoch: 50
+
+----------
+
+2. Building feature regressor
+
+2.1.png		SGD
+
+Optimizer: sgd+nesterov (lr scheduler { <2:1e-2, <5:1e-3, <10:5e-4, else:5e-5 })
+Loss function: MSE
+Objectives: Malignancy, Lobulation, Spiculation, Diameter
+Branching: conv block #5
+
+False positive samples: None
+Negative:Positive ratio: 0.5:0.5
+Validation: Processed with Classifier, only nodules used
+Data augmentation: Flips around random axes (implemented for positive samples only)
+
+Filter size: (3,3,3)
+Number of filters per conv block: 8-24-64-72-72
+Inner activation functions: LeakyReLU(0.3)
+Number of neurons in the Dense layer: 32
+Output layer activation function: softmax
+Regularization degree: 1e-3
+Dropout rate: 0.2
+Dropout type: Regular Dropout
+
+Number of epochs: 10
+Number of samples per batch: 50
+Number of batches per epoch: 50
+
+
+2.2.png		Nadam
+
+Optimizer: Nadam (lr scheduler { <2:1e-2, <5:1e-3, <10:5e-4, else:5e-5 })
+Loss function: MSE
+Objectives: Malignancy, Lobulation, Spiculation, Diameter
+Branching: conv block #5
+
+False positive samples: None
+Negative:Positive ratio: 0.5:0.5
+Validation: Processed with Classifier, only nodules used
+Data augmentation: Flips around random axes (implemented for positive samples only)
+
+Filter size: (3,3,3)
+Number of filters per conv block: 8-24-64-72-72
+Inner activation functions: LeakyReLU(0.3)
+Number of neurons in the Dense layer: 32
+Output layer activation function: softmax
+Regularization degree: 1e-3
+Dropout rate: 0.2
+Dropout type: Regular Dropout
+
+Number of epochs: 10
+Number of samples per batch: 50
+Number of batches per epoch: 50
+
+
+2.3.png		FP addition
+
+Optimizer: sgd+nesterov (lr scheduler { <2:1e-2, <5:1e-3, <10:5e-4, else:5e-5 })
+Loss function: MSE
+Objectives: Malignancy, Lobulation, Spiculation, Diameter
+Branching: conv block #5
+
+False positive samples: 50% of negative samples
+Negative:Positive ratio: 0.3:0.7
+Validation: Processed with Classifier, only nodules used
+Data augmentation: Flips around random axes (implemented for positive samples only)
+
+Filter size: (3,3,3)
+Number of filters per conv block: 8-24-64-72-72
+Inner activation functions: LeakyReLU(0.3)
+Number of neurons in the Dense layer: 32
+Output layer activation function: softmax
+Regularization degree: 1e-3
+Dropout rate: 0.2
+Dropout type: Regular Dropout
+
+Number of epochs: 10
 Number of samples per batch: 50
 Number of batches per epoch: 50
