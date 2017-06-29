@@ -255,8 +255,8 @@ plt.grid(True, ls='--', lw=0.5, alpha=0.5, dash_capstyle = 'round', c='gray')
 plt.xlabel('Epoch #', fontsize=15)
 plt.ylabel('Loss', fontsize=15)
 
-plt.plot([x for x in range(7)], lossHist['categorical_accuracy'], 'o-k', label='Training categorical accuracy')
-plt.plot([x for x in range(7)], lossHist['val_categorical_accuracy'], 'o-c', label='Validation categorical accuracy')
+plt.plot([x for x in range(nbEpochs)], lossHist['categorical_accuracy'], 'o-k', label='Training categorical accuracy')
+plt.plot([x for x in range(nbEpochs)], lossHist['val_categorical_accuracy'], 'o-c', label='Validation categorical accuracy')
 plt.legend()
     
 plt.savefig('/home/katya/LungCancer/Katya/CNN_v3_nodule_classification/figures/' + str(version) + '.2.png')
