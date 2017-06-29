@@ -13,4 +13,5 @@
 
 
 ### Resource 4
- * [kaggle 1rst place solution crystal clear](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ * [kaggle 1st place solution for the 2017 national datascience bowl](https://github.com/lfz/DSB2017/blob/master/solution-grt123-team.pdf)
+ * [Github](https://github.com/lfz/DSB2017)
