@@ -1,0 +1,383 @@
+0 of 1595
+20 of 1595
+40 of 1595
+Patient SliceLocation does not equal Imageposition - ID: ba71b330a16e8b4c852f9a8730ee33b9
+SliceLocation +366.70 ImagePositionPatient[2] 1516.800000
+Patient SliceLocation does not equal Imageposition - ID: 4b28f147cb82baba3edcdbd34ca19085
+SliceLocation +321.00 ImagePositionPatient[2] 1383.500000
+60 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 31136e50b7205e9184227f94cdea0090
+SliceLocation +310.50 ImagePositionPatient[2] 1533.000000
+Patient SliceLocation does not equal Imageposition - ID: 990fbe3f0a1b53878669967b9afd1441
+SliceLocation 370.70 ImagePositionPatient[2] 1573.80005
+80 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 5518b27f000e34cf2db5a362f4fac613
+SliceLocation +351.00 ImagePositionPatient[2] 1470.500000
+Patient SliceLocation does not equal Imageposition - ID: 7eb217c0444e5d866bd462ade5266a06
+SliceLocation +357.00 ImagePositionPatient[2] 1249.000000
+Patient SliceLocation does not equal Imageposition - ID: 3d5351d09a432a8de88e5b270d419ebf
+SliceLocation +332.70 ImagePositionPatient[2] 1492.800000
+Patient slice has no SliceLocation - ID: efd5b9e8cb651e18eba6a9623e36e7be
+Patient SliceLocation does not equal Imageposition - ID: baf842dd446ce9d7082efe16d22fb971
+SliceLocation +318.00 ImagePositionPatient[2] 1317.500000
+Patient SliceLocation does not equal Imageposition - ID: 3f37745d6516c29c597b797c50fe7839
+SliceLocation +365.00 ImagePositionPatient[2] 1328.500000
+Patient SliceLocation does not equal Imageposition - ID: e6160ed0ff2eb214abd4df9a3c336c1d
+SliceLocation 245.95 ImagePositionPatient[2] -245.949982
+100 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 8e7638040431e1d91dffa4497f7078d9
+SliceLocation +339.50 ImagePositionPatient[2] 1388.500000
+Patient SliceLocation does not equal Imageposition - ID: 1a41350d4bbd74b7e0e28239cefa84c2
+SliceLocation +301.00 ImagePositionPatient[2] 1570.500000
+120 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 84402e42c992259ac8cdd98b51d4fba3
+SliceLocation +396.00 ImagePositionPatient[2] 1342.500000
+140 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 9b871732b3935661e7639e84a6ab9747
+SliceLocation +307.00 ImagePositionPatient[2] 1411.000000
+Patient SliceLocation does not equal Imageposition - ID: 5765dc0dbc8c02a4c862563eac4950ef
+SliceLocation 354.70 ImagePositionPatient[2] 1495.80005
+160 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 1a91ca95390756518700877893ac195b
+SliceLocation +312.00 ImagePositionPatient[2] 1416.000000
+180 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 8d5c4cc78e964463699c19003be70851
+SliceLocation +307.00 ImagePositionPatient[2] 945.500000
+200 of 1595
+Patient SliceLocation does not equal Imageposition - ID: d7713d80767cfdaad5e3db537849d8d0
+SliceLocation +345.40 ImagePositionPatient[2] 1358.599000
+Patient SliceLocation does not equal Imageposition - ID: 85d59b470b927e825937ea3483571c6d
+SliceLocation 273.70 ImagePositionPatient[2] 1385.80005
+220 of 1595
+Patient SliceLocation does not equal Imageposition - ID: bedec8e1ad130a08faeec8ed81780d56
+SliceLocation +345.30 ImagePositionPatient[2] 1494.699000
+Patient SliceLocation does not equal Imageposition - ID: 2f4e4a808cfb348d6ddc81de96f72077
+SliceLocation +322.00 ImagePositionPatient[2] 1323.000000
+240 of 1595
+Patient SliceLocation does not equal Imageposition - ID: d73fda3be1180e4465df6fbef8a0648d
+SliceLocation +322.00 ImagePositionPatient[2] 1353.500000
+Patient SliceLocation does not equal Imageposition - ID: 85d6fb4a08853d370935a75de7495a27
+SliceLocation +387.60 ImagePositionPatient[2] 1315.900000
+Patient SliceLocation does not equal Imageposition - ID: 649fd56ef9809019b57261fcf9574d76
+SliceLocation +322.00 ImagePositionPatient[2] 1379.500000
+Patient SliceLocation does not equal Imageposition - ID: a2d9e657a673798f9ebdfec1b361f93a
+SliceLocation +334.00 ImagePositionPatient[2] 1547.000000
+260 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 8815efa67adb15b2f8cfd49ec992f48e
+SliceLocation 366.20 ImagePositionPatient[2] -366.200012
+Patient SliceLocation does not equal Imageposition - ID: 0708c00f6117ed977bbe1b462b56848c
+SliceLocation +403.00 ImagePositionPatient[2] 1339.000000
+Patient SliceLocation does not equal Imageposition - ID: b229a7697c3efcd6ab82f6f19aff8e8b
+SliceLocation +350.00 ImagePositionPatient[2] 1238.500000
+300 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 11b09ff9de7382d83f79cc81f89f5894
+SliceLocation +348.00 ImagePositionPatient[2] 1358.500000
+Patient SliceLocation does not equal Imageposition - ID: 1ff6e2a80eb74396e09460c61ae69fb0
+SliceLocation +389.50 ImagePositionPatient[2] 1366.000000
+Duplicate slices for same z-depth - ID: b8bb02d229361a623a4dc57aa0e5c485
+Patient SliceLocation does not equal Imageposition - ID: 665c1913d8e90e57af3b745349d19537
+SliceLocation +371.00 ImagePositionPatient[2] 695.500000
+Patient SliceLocation does not equal Imageposition - ID: ab9e5f1718f2af09030dd33b531f066c
+SliceLocation 385.80 ImagePositionPatient[2] 1435.19995
+Patient SliceLocation does not equal Imageposition - ID: 043ed6cb6054cc13804a3dca342fa4d0
+SliceLocation +350.00 ImagePositionPatient[2] 1384
+Patient SliceLocation does not equal Imageposition - ID: ead64f9269f2200e1d439960a1e069b4
+SliceLocation 329.90 ImagePositionPatient[2] 1352.59998
+Patient slice has no SliceLocation - ID: 4bf6fb574a2ca2da551609e98a573e54
+Patient SliceLocation does not equal Imageposition - ID: dbcb3dbee4f4e75d0672c2a23feb1e3a
+SliceLocation +311.00 ImagePositionPatient[2] 1360.500000
+340 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 2b89691a0744504491ef91d711d94918
+SliceLocation +158.00 ImagePositionPatient[2] -1237.500000
+Patient SliceLocation does not equal Imageposition - ID: 2950df9632577cb4b3af2dbfe2086b11
+SliceLocation +348.00 ImagePositionPatient[2] 1394.500000
+Patient SliceLocation does not equal Imageposition - ID: 6ddb331865608b8dfb8cac6d873eaf62
+SliceLocation +359.20 ImagePositionPatient[2] 1475.300000
+Patient SliceLocation does not equal Imageposition - ID: a2a4bc7708f6831470d757cd6f32bffe
+SliceLocation +339.10 ImagePositionPatient[2] 1577.900000
+360 of 1595
+Patient SliceLocation does not equal Imageposition - ID: d2282b0eb61b8d3b090cf8eb76776529
+SliceLocation 345.90 ImagePositionPatient[2] 1265.099000
+380 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 43f2ef8f53e1aa03bfb6378d0c20a8ac
+SliceLocation 319.45 ImagePositionPatient[2] -319.450012
+Patient SliceLocation does not equal Imageposition - ID: 322bf0acacba9650fa5656b9613c75c8
+SliceLocation -649.38 ImagePositionPatient[2] 649.375
+Patient SliceLocation does not equal Imageposition - ID: b83ce5267f3fd41c7029b4e56724cd08
+SliceLocation 85.20 ImagePositionPatient[2] -1568.80005
+400 of 1595
+420 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 2d596b6ead89ab35577fe625a9a17cbb
+SliceLocation -72.10 ImagePositionPatient[2] -1567.59998
+Patient SliceLocation does not equal Imageposition - ID: d7e5640b52c8e092ec277febc81478da
+SliceLocation +358.00 ImagePositionPatient[2] 1362.000000
+Patient SliceLocation does not equal Imageposition - ID: 934f01786c3bdf8eeaf7d8411a3a8f82
+SliceLocation +315.00 ImagePositionPatient[2] 1336.000000
+Patient SliceLocation does not equal Imageposition - ID: c0279b938ac1790f1badfcd4459f5c4c
+SliceLocation 337.80 ImagePositionPatient[2] 1408.69995
+440 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 404e5dd2b032a223282f5a5e73c05418
+SliceLocation 39.10 ImagePositionPatient[2] -1698.40002
+Patient SliceLocation does not equal Imageposition - ID: ced4f41abff9290b0638b0a25cd5a26d
+SliceLocation +333.00 ImagePositionPatient[2] 1310.000000
+Patient slice has no SliceLocation - ID: 995fc0581ed0e3ba0f97dbd7fe63db59
+460 of 1595
+Patient SliceLocation does not equal Imageposition - ID: a532c6f9405e6f3a4229ea6e04b0d975
+SliceLocation 303.00 ImagePositionPatient[2] 1559.5
+Patient SliceLocation does not equal Imageposition - ID: af3657cf479490d027ada92b330f80af
+SliceLocation +344.10 ImagePositionPatient[2] 1411.400000
+Patient SliceLocation does not equal Imageposition - ID: af1d0c2fcde369dd1b715460c2f704a2
+SliceLocation 10.20 ImagePositionPatient[2] -1580.80005
+Patient SliceLocation does not equal Imageposition - ID: 98ea0b7d586e5e888e31633772f4df94
+SliceLocation +331.00 ImagePositionPatient[2] 1308.000000
+480 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 59e4985cd165f3abbe888475ce564f3a
+SliceLocation +333.00 ImagePositionPatient[2] 1457.500000
+Patient SliceLocation does not equal Imageposition - ID: 68a1f729eb1e2a791fe8170ac6631828
+SliceLocation +359.00 ImagePositionPatient[2] 1351.000000
+Patient SliceLocation does not equal Imageposition - ID: 437e42695e7ad0a1cb834e1b3e780516
+SliceLocation 369.000000 ImagePositionPatient[2] 1489.500000
+500 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 91d0606b85ab7dbc7bab718c1312f2df
+SliceLocation +319.00 ImagePositionPatient[2] 1372.000000
+Patient SliceLocation does not equal Imageposition - ID: 6c56e9802fb6346db58bd5daf160f9be
+SliceLocation +345.60 ImagePositionPatient[2] 1524.900000
+Patient SliceLocation does not equal Imageposition - ID: 6f229187fe608c9eacc567eb74c1458c
+SliceLocation 338.58 ImagePositionPatient[2] -338.575043
+520 of 1595
+540 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 198d3ff4979a9a89f78ac4b4a0fe0638
+SliceLocation +386.10 ImagePositionPatient[2] 1266.400000
+560 of 1595
+Patient SliceLocation does not equal Imageposition - ID: ebd601d40a18634b100c92e7db39f585
+SliceLocation +96.00 ImagePositionPatient[2] 1587.500000
+Patient SliceLocation does not equal Imageposition - ID: 7bfba4540956c0b2c5b78b3623a4855d
+SliceLocation -585.22 ImagePositionPatient[2] 585.224976
+Patient SliceLocation does not equal Imageposition - ID: b5de57869d863bdc1b84b0194e79a9d3
+SliceLocation +417.00 ImagePositionPatient[2] 1504.000000
+580 of 1595
+Patient SliceLocation does not equal Imageposition - ID: fda187bfb1d6a2ecd4abd862c7f7f94c
+SliceLocation +331.00 ImagePositionPatient[2] 1331.500000
+600 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 72a1e35c34052e163f61585ba0c9daf4
+SliceLocation +326.50 ImagePositionPatient[2] 1500.000000
+Patient SliceLocation does not equal Imageposition - ID: 7fb1c8ffd78ca4b6869044251add36b4
+SliceLocation +312.00 ImagePositionPatient[2] 1390.000000
+Patient slice has no SliceLocation - ID: 1c05dea5723caf192af34ceb5804468f
+Patient slice has no SliceLocation - ID: f52bd66210db45189027991781e1162b
+Patient SliceLocation does not equal Imageposition - ID: ee71210fa398cbb080f6c537a503e806
+SliceLocation +332.00 ImagePositionPatient[2] 1347.500000
+Patient SliceLocation does not equal Imageposition - ID: af2b9f7d489ffab8e3590658853cacf8
+SliceLocation 53.40 ImagePositionPatient[2] -1627.09998
+Patient SliceLocation does not equal Imageposition - ID: 318bf8045b625b40825552420abfe1ef
+SliceLocation +342.50 ImagePositionPatient[2] 1505.500000
+620 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 678c5ec1360784e0fe797208069e0bbb
+SliceLocation +301.00 ImagePositionPatient[2] -287.500000
+Patient SliceLocation does not equal Imageposition - ID: 787bd094dd0586ea0f51f9f8557424a8
+SliceLocation +310.10 ImagePositionPatient[2] 1551.900000
+640 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 14c534e0b7c3176d9106c6215d0aa8c6
+SliceLocation 381.40 ImagePositionPatient[2] 1448.09998
+Patient SliceLocation does not equal Imageposition - ID: 820dd342da11af3a062d1647b3736fdd
+SliceLocation -518.55 ImagePositionPatient[2] 518.549988
+Patient SliceLocation does not equal Imageposition - ID: 07fdb853ff90ce3c6d5c91f619ed714e
+SliceLocation +432.00 ImagePositionPatient[2] 1551.500000
+Patient SliceLocation does not equal Imageposition - ID: 4b19444c570185fc4606e4e29fd1ce1c
+SliceLocation 332.50 ImagePositionPatient[2] 1442.5
+660 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 668bb968918c63fad7d65581825b1048
+SliceLocation 394.20 ImagePositionPatient[2] 1480.80005
+Patient SliceLocation does not equal Imageposition - ID: 33387bea2cacf6127035cc7033036a02
+SliceLocation +358.00 ImagePositionPatient[2] 1371.000000
+Patient SliceLocation does not equal Imageposition - ID: cb64ff663195832e0b66a9bb17891954
+SliceLocation +332.30 ImagePositionPatient[2] 1576.199000
+Patient SliceLocation does not equal Imageposition - ID: 3457880b1a66030feb8adaed6da805af
+SliceLocation -675.33 ImagePositionPatient[2] 675.325012
+680 of 1595
+Patient SliceLocation does not equal Imageposition - ID: c82d5bc4554358b1512f9f871822705b
+SliceLocation +329.00 ImagePositionPatient[2] 1385.000000
+700 of 1595
+720 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 0257df465d9e4150adef13303433ff1e
+SliceLocation +386.00 ImagePositionPatient[2] 1310.000000
+Patient slice has no SliceLocation - ID: 7bc437435c5677d361177adb80547bd0
+740 of 1595
+Patient SliceLocation does not equal Imageposition - ID: eff5b5a7c7245fa8f4661d7e88f8bc7f
+SliceLocation 29.70 ImagePositionPatient[2] -1534.80005
+Patient SliceLocation does not equal Imageposition - ID: 49ee28b71e02be4689e3fb0ba2a32c2b
+SliceLocation +341.00 ImagePositionPatient[2] 1242.500000
+Patient SliceLocation does not equal Imageposition - ID: 9e98136d07b953c3362e0a132c8810b6
+SliceLocation +289.50 ImagePositionPatient[2] 1221.000000
+Patient slice has no SliceLocation - ID: 1b7ca8dad5c36feb0a6abf8079173e22
+Patient SliceLocation does not equal Imageposition - ID: 2703df8c469906a06a45c0d7ff501199
+SliceLocation 348.50 ImagePositionPatient[2] -348.499969
+780 of 1595
+800 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 9d8bdc380b51812ba82a6040ef207c33
+SliceLocation +340.00 ImagePositionPatient[2] 1339.500000
+Patient slice has no SliceLocation - ID: 1344e604281e68ac71f25c02e7637992
+840 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 4a1391269629d20359325873d11413c9
+SliceLocation +357.00 ImagePositionPatient[2] 1393.000000
+Patient SliceLocation does not equal Imageposition - ID: 4cd70a98baca46b116071b32788d3c2d
+SliceLocation 37.10 ImagePositionPatient[2] -1537.90002
+860 of 1595
+880 of 1595
+Patient SliceLocation does not equal Imageposition - ID: cd68d1a14cc504e3f7434d5cc324744d
+SliceLocation +315.00 ImagePositionPatient[2] 1387.000000
+Patient SliceLocation does not equal Imageposition - ID: 9a3174ffe867f602ee82c512a01420ee
+SliceLocation -1.50 ImagePositionPatient[2] -1666.5
+900 of 1595
+920 of 1595
+Patient SliceLocation does not equal Imageposition - ID: df015da931ad5312ee7b24b201b67478
+SliceLocation +360.00 ImagePositionPatient[2] 1334.000000
+Patient SliceLocation does not equal Imageposition - ID: 5f4e23c0f76cd00aaaa6e03744bbc362
+SliceLocation +148.00 ImagePositionPatient[2] 1440.500000
+Patient SliceLocation does not equal Imageposition - ID: 40c044145f5c87c12bd8c725924add3c
+SliceLocation +407.00 ImagePositionPatient[2] 1265.500000
+940 of 1595
+Patient SliceLocation does not equal Imageposition - ID: b0864a9fd01ec7c7fa3a8301bdb2d03d
+SliceLocation +321.00 ImagePositionPatient[2] 1383.500000
+Patient SliceLocation does not equal Imageposition - ID: 49b5b3444cf977439600dd06e8dd84ad
+SliceLocation +328.00 ImagePositionPatient[2] 1333.000000
+Patient SliceLocation does not equal Imageposition - ID: f7cdd95c94818875ece1175561025038
+SliceLocation +355.00 ImagePositionPatient[2] 1363.000000
+960 of 1595
+980 of 1595
+1000 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 0c9d8314f9c69840e25febabb1229fa4
+SliceLocation +413.00 ImagePositionPatient[2] 1394.000000
+Patient SliceLocation does not equal Imageposition - ID: d104e584e51830ea51ee60e69186f83b
+SliceLocation +374.00 ImagePositionPatient[2] 1344.500000
+Patient SliceLocation does not equal Imageposition - ID: 80938b4f531fa2334c13d829339e1356
+SliceLocation +344.00 ImagePositionPatient[2] 1416.000000
+Patient SliceLocation does not equal Imageposition - ID: d00ee8f03fb00562b2db35e90536ffc1
+SliceLocation 309.85 ImagePositionPatient[2] -309.850006
+Patient SliceLocation does not equal Imageposition - ID: 4dcd34bd9b10f96453b63d4f55d1fd44
+SliceLocation +303.00 ImagePositionPatient[2] 1376.000000
+Patient SliceLocation does not equal Imageposition - ID: e6d8ae8c3b0817df994a1ce3b37a7efb
+SliceLocation +298.00 ImagePositionPatient[2] 1326.000000
+1040 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 4d86e1657d46b9ee44c2c434fad231ce
+SliceLocation +317.40 ImagePositionPatient[2] 1344.099000
+1060 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 8e92c4db434da3b8d4e3cafce3f072fb
+SliceLocation +379.60 ImagePositionPatient[2] 1581.400000
+Patient SliceLocation does not equal Imageposition - ID: 7921bbb92d5390784f3ba046be0d59a3
+SliceLocation 375.40 ImagePositionPatient[2] -1603.59998
+1080 of 1595
+1100 of 1595
+Patient SliceLocation does not equal Imageposition - ID: a87740afc072074e6c5a2ab787235dde
+SliceLocation +351.00 ImagePositionPatient[2] 1399.000000
+Patient SliceLocation does not equal Imageposition - ID: 61630ec628631f7fe3980f869e1a4fbe
+SliceLocation 363.70 ImagePositionPatient[2] 1512.80005
+1120 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 013395589c01aa01f8df81d80fb0e2b8
+SliceLocation 56.70 ImagePositionPatient[2] -1514.30005
+Patient SliceLocation does not equal Imageposition - ID: dcf5fd36b9fff9183f63df286bf8eef9
+SliceLocation 278.60 ImagePositionPatient[2] 1429.40002
+1140 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 6cf71f5017945c9dd8bc0f5126eeef5b
+SliceLocation +355.00 ImagePositionPatient[2] 1429.000000
+Patient SliceLocation does not equal Imageposition - ID: 8b6e16b4e1d1400452956578f8eb97c4
+SliceLocation +394.00 ImagePositionPatient[2] 1202.000000
+1160 of 1595
+Patient SliceLocation does not equal Imageposition - ID: a15d4fd19fb32f4858f472962c4bb230
+SliceLocation +344.00 ImagePositionPatient[2] 1338.500000
+1180 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 14248ec22193bed1e087755df5a28509
+SliceLocation +423.40 ImagePositionPatient[2] 1441.599000
+1200 of 1595
+Patient SliceLocation does not equal Imageposition - ID: a3cb12d3b8d5c64fa55f27208fe13a07
+SliceLocation 85.40 ImagePositionPatient[2] -1549.09998
+1220 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 6f43af3f636f37b9695b58378f9265cc
+SliceLocation 62.90 ImagePositionPatient[2] -1686.09998
+Patient SliceLocation does not equal Imageposition - ID: 006b96310a37b36cccb2ab48d10b49a3
+SliceLocation +364.50 ImagePositionPatient[2] 521.500000
+Patient SliceLocation does not equal Imageposition - ID: bfb3e2d11c149036bbe12566ef6b933c
+SliceLocation +344.10 ImagePositionPatient[2] 1322.900000
+Patient SliceLocation does not equal Imageposition - ID: 521924ac2f00a62cc63f679de7e599cd
+SliceLocation +370.00 ImagePositionPatient[2] 1383.000000
+1240 of 1595
+Patient SliceLocation does not equal Imageposition - ID: f76143416ee2c8e1251f45f108fed468
+SliceLocation +333.00 ImagePositionPatient[2] 706.000000
+Patient SliceLocation does not equal Imageposition - ID: bb94bc5dd4656a2387bafb6098311175
+SliceLocation 333.30 ImagePositionPatient[2] 1469.19995
+1260 of 1595
+Patient slice has no SliceLocation - ID: 08acb3440eb23385724d006403feb585
+Patient SliceLocation does not equal Imageposition - ID: d3eaad692dc96b1a1765076716f55421
+SliceLocation +364.00 ImagePositionPatient[2] 1654.000000
+1280 of 1595
+Patient slice has no SliceLocation - ID: a4fa7dd73e3017b97ac6674a10fac216
+Patient SliceLocation does not equal Imageposition - ID: b61b1911d3631bee521fcda3a3e568a1
+SliceLocation 320.50 ImagePositionPatient[2] 1611
+1300 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 9f12d2d6134af032932ed37776c6d09f
+SliceLocation +332.70 ImagePositionPatient[2] 1344.800000
+1320 of 1595
+Patient SliceLocation does not equal Imageposition - ID: adc3bbc63d40f8761c59be10f1e504c3
+SliceLocation -616.55 ImagePositionPatient[2] 616.549988
+Patient SliceLocation does not equal Imageposition - ID: 31e82ed2c875eae8dfbfd70ac440458a
+SliceLocation +347.00 ImagePositionPatient[2] 1362.500000
+1340 of 1595
+Patient SliceLocation does not equal Imageposition - ID: cd6be62834c72756738935f904ec9c2c
+SliceLocation +275.00 ImagePositionPatient[2] 1427.500000
+1360 of 1595
+Patient SliceLocation does not equal Imageposition - ID: e58b78dc31d80a50285816f4ecd661e3
+SliceLocation +322.00 ImagePositionPatient[2] 1333.500000
+Patient SliceLocation does not equal Imageposition - ID: 359951e3d2768249211361665b99b735
+SliceLocation +300.00 ImagePositionPatient[2] 1337.500000
+1380 of 1595
+Patient SliceLocation does not equal Imageposition - ID: e1e47812eecd80466cf7f5b0160de446
+SliceLocation +352.00 ImagePositionPatient[2] 1292.000000
+Patient slice has no SliceLocation - ID: 809ae218d8b4a973d11358264e4a0823
+Patient SliceLocation does not equal Imageposition - ID: d244870d213a21efa86e86c951d8c9a2
+SliceLocation 240.20 ImagePositionPatient[2] -1588.30005
+Patient slice has no SliceLocation - ID: bbf7a3e138f9353414f2d51f0c363561
+1400 of 1595
+Patient SliceLocation does not equal Imageposition - ID: f0f72264cd822301852578cc71288d3c
+SliceLocation +367.00 ImagePositionPatient[2] -357.500000
+1420 of 1595
+Patient slice has no SliceLocation - ID: 70671fa94231eb377e8ac7cba4650dfb
+Patient SliceLocation does not equal Imageposition - ID: f42a0343e5b5154c6a184fc955d8f20f
+SliceLocation +427.00 ImagePositionPatient[2] 1372.500000
+Patient SliceLocation does not equal Imageposition - ID: 02801e3bbcc6966cb115a962012c35df
+SliceLocation +375.80 ImagePositionPatient[2] 1261.199000
+Patient SliceLocation does not equal Imageposition - ID: 494c42cb61c1e4a02504c16fe09a8129
+SliceLocation 303.10 ImagePositionPatient[2] -1398.40002
+Patient SliceLocation does not equal Imageposition - ID: 2b55d9c3f8e05951c87e90d2361aca6a
+SliceLocation +360.00 ImagePositionPatient[2] 1401.500000
+1440 of 1595
+Patient SliceLocation does not equal Imageposition - ID: a59b1dc7e417fea605b34a5204f61f9d
+SliceLocation 397.30 ImagePositionPatient[2] 1372.19995
+1460 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 39ebb8121ea6faec0405a4e8db883b55
+SliceLocation +304.00 ImagePositionPatient[2] 1408.500000
+Patient SliceLocation does not equal Imageposition - ID: 64a5a866461a3b6006efb0075e04dffe
+SliceLocation +320.00 ImagePositionPatient[2] 1353.000000
+1480 of 1595
+1500 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 993f1e68290d591f755669e97b49b4f4
+SliceLocation 57.90 ImagePositionPatient[2] -1762.59998
+Patient SliceLocation does not equal Imageposition - ID: 5f19d1c7bd7ceb691639cab9c1c2cb19
+SliceLocation +414.50 ImagePositionPatient[2] 1584.500000
+1520 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 9f73628a5e06cfc6723f3ee2ae4b96c4
+SliceLocation 63.60 ImagePositionPatient[2] -1674.40002
+1540 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 5782e6873c666529c6a66421acb043dc
+SliceLocation 496.90 ImagePositionPatient[2] 1408.59998
+Patient SliceLocation does not equal Imageposition - ID: 88523579f4e325351665753e903cfdf5
+SliceLocation +292.00 ImagePositionPatient[2] 1251.000000
+Patient SliceLocation does not equal Imageposition - ID: 7b84056d69644df2a9452a1746d14d39
+SliceLocation +320.00 ImagePositionPatient[2] 1384.000000
+Patient slice has no SliceLocation - ID: 3187b6cf14ed2cbe611b01da5e161f21
+1580 of 1595
+Patient SliceLocation does not equal Imageposition - ID: 648c99653d512edc1d28dd8e7054ceab
+SliceLocation 230.40 ImagePositionPatient[2] -230.399963
+Patient SliceLocation does not equal Imageposition - ID: 661ffa992ed2c23c37f1e7b82dc834d7
+SliceLocation +275.70 ImagePositionPatient[2] 1419.800000
+Patient SliceLocation does not equal Imageposition - ID: ff8599dd7c1139be3bad5a0351ab749a
+SliceLocation -625.85 ImagePositionPatient[2] 625.849976
