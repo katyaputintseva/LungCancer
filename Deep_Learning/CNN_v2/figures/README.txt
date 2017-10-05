@@ -27,7 +27,7 @@ Number of batches per epoch: 150
 2.png 		
 
 Optimizer: Nadam (lr=0.01)
-Loss function: MSE
+Loss function: Binary crossentropy
 Objectives: Malignancy
 Branching: dense block
 
@@ -50,11 +50,11 @@ Number of batches per epoch: 150
 
 ----
 
-3.png Change of the loss function to MSE
+3.png Change of the loss function to MSE + adding other objectives
 
 Optimizer: Nadam (lr=0.01)
 Loss function: MSE
-Objectives: Malignancy
+Objectives: Malignancy, Lobulation, Spiculation, Diameter 
 Branching: dense block
 
 False positive samples: None
@@ -76,7 +76,7 @@ Number of batches per epoch: 150
 
 ----
 
-4.png Addition of False Positives + adding regularization + adding other objectives
+4.png Addition of False Positives + adding regularization
 
 Optimizer: Nadam (lr=0.01)
 Loss function: MSE
@@ -140,7 +140,7 @@ Train/Test split: 80/20
 Data augmentation: None
 
 Filter size: (3,3,3)
-Number of filters per conv block: 8-24-48-64-65
+Number of filters per conv block: 8-24-48-64-64
 Number of neurons in the Dense layer: 32
 
 6.1.png			
@@ -190,7 +190,7 @@ Data augmentation: None
 
 Filter size: (3,3,3)
 Number of filters per conv block: 8-24-48-64-65
-Inner activation functions: LeakyReLU(0.3)
+Inner activation functions: LeakyReLU(0.3) 
 Number of neurons in the Dense layer: 32
 Output layer activation function: softmax
 Regularization degree: 1e-3
