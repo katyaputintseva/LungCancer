@@ -1,1 +1,1 @@
-# Collaboration project for Kaggle Data Science Bowl 2017
+# Collaborative project for Kaggle Data Science Bowl 2017
