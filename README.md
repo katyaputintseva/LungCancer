@@ -284,7 +284,7 @@ not improved. We believe that this is due to the data inconsistency problem pres
 As a point of reference, we would like to highlight that the winning team achieved a log-loss score of
 0.39975 in the Kaggle competition (the lower the score the better).
 
-# 4 Conclusion and Future Work
+# 4. Conclusion and Future Work
 
 Medical image recognition for diagnostic prediction is difficult due to computation resources required,
 non-standardized data collection practices, and potential for signal minimization due to human-tohuman
